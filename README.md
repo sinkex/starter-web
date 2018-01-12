@@ -13,4 +13,4 @@ blabla2
 
 ### Copyright
 
-Git.Training blablabla blablablaaaa
+Git.Training blablabla blablablaaaa, All rights reserved
