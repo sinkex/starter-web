@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks blablabla
+    extra text
 
 # TECHNOLOGY COLOPHON
 
