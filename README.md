@@ -8,3 +8,7 @@ Sample website with plenty of files for demos
 blabla2
 
 ## Deployment
+
+### Copyright
+
+Git.Training blablabla
